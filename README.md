@@ -13,8 +13,6 @@ Developed a comprehensive food wastage forecasting system for food service/retai
 * [Methodology](#methodology)
 * [Installation Guide](#installation-guide)
 * [Usage Instructions](#usage-instructions)
-* [Contributing to the Project](#contributing-to-the-project)
-* [License Information](#license-information)
 * [Contact Information](#contact-information)
 
 ---
@@ -138,21 +136,6 @@ jupyter notebook Food-Wastage-Forecasting-and-Optimization.ipynb
 
 ---
 
-## Contributing to the Project
-
-* Fork the repo
-* Create a feature/bugfix branch
-* Make changes
-* Push and submit a Pull Request
-* Follow Python style guidelines and comment your code
-
----
-
-## License Information
-
-*(Specify your license: MIT, Apache 2.0, GPL-3.0, etc.)*
-
----
 
 ## Contact Information
 
