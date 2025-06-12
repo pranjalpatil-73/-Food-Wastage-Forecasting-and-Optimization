@@ -139,8 +139,8 @@ jupyter notebook Food-Wastage-Forecasting-and-Optimization.ipynb
 
 ## Contact Information
 
-**Name/Organization:** \[Your Name or Org]
+**Name:** \[Pranjal Patil]
 **Email:** [your.email@example.com](mailto:your.email@example.com)
-**GitHub:** \[[https://github.com/your-github-profile](https://github.com/your-github-profile)]
-**LinkedIn:** \[[https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/your-linkedin-profile)]
+**GitHub:** \[[https://github.com/your-github-profile](https://github.com/pranjalpatil-73)]
+**LinkedIn:** \[[https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/pranjal-patil07/)]
 
